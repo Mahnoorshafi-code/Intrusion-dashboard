@@ -1,6 +1,6 @@
-# Intrusion Detection Tool by TechTitans
+# Intrusion Detection Tool by Group TechTitans
 
-A cybersecurity project designed for the HACCPAN 2025 competition. This tool simulates network-based attacks, detects suspicious traffic, and logs alerts using Snort IDS and a Flask-based dashboard.
+A cybersecurity project designed for the HACHATHON 2025 competition. This tool simulates network-based attacks, detects suspicious traffic, and logs alerts using Snort IDS and a Flask-based dashboard.
 
 ## Team
 **TechTitans**  
@@ -90,7 +90,7 @@ Intrusion-Detection-Tool/
 ## License
 MIT License
 
-## Contact
-**Team TechTitans**  
-Email: techtitans@cybersec.com  
-GitHub: [github.com/TechTitans](https://github.com/TechTitans)
+## Contact 
+Email: mahnoorshafi88@gmail.com  
+GitHub: https://github.com/Mahnoorshafi-code/Intrusion-dashboard.git
+
