@@ -25,8 +25,8 @@ This project focuses on:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/Intrusion-Detection-Tool-by-TechTitans.git
-cd Intrusion-Detection-Tool-by-TechTitans
+git clone https://github.com/Mahnoorshafi-code/Intrusion-dashboard.git
+cd Intrusion-dashboard
 ```
 
 ### 2. Install Dependencies
